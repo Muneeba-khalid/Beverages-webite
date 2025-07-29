@@ -1,0 +1,40 @@
+@import "tailwindcss";
+/* For Material UI: */
+/* @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap'); */
+
+
+/* index.css */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif; /* ✅ Set globally */
+}
+
+
+/* #0F09B BALCK
+#362828 BROWN DARK
+#63514F LIFHT 
+#8B7069  UPER SE ZADA LIGHT
+#AF9284 ZADA LIGHT */
+
+/* #5a3d2b 
+#6F4E37 */
+body, html {
+  font-family: Arial, Helvetica, sans-serif !important;
+  text-rendering: optimizeSpeed !important;
+}
+
+html, body {
+  overflow-x: hidden;   /* ✅ this removes bottom scrollbar */
+}
+
+body::-webkit-scrollbar {
+  display: none;
+}
+body {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
