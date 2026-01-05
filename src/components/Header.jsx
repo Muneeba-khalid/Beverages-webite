@@ -2,7 +2,7 @@
 import { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import { FiMenu, FiX, FiUser, FiChevronDown } from 'react-icons/fi'; // Only removed FiShoppingCart
-import logo from "../assets/Logo.jpeg";
+import Logo from "../assets/Logo.jpeg";
 
 const Navbar = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -47,7 +47,7 @@ const Navbar = () => {
       <Link to="/" className="logo-link">
         <div className="logo-container">
           <img 
-            src={logo} 
+            src={Logo} 
             alt="Brew & Sip Logo"
             className="logo-img"
           />
