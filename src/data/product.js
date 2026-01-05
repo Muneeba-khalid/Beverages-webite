@@ -1,14 +1,14 @@
 
 import Black_Gold_Iced_Coffee from '../assets/Black_Gold_Iced_Coffee.jpeg'
 import Affogato_coffee from '../assets/Affogato_coffee.jpeg';
-import Coffe from '../assets/coffe.jpeg';
+import Coffe from '../assets/coffe.jpeg';//fixed
 import Black_tea from '../assets/Black_tea.jpeg';
 import blueberry from '../assets/blueberry.jpeg';
 import coffee from '../assets/coffee.jpeg';
 import Caramel_Macchiato_coffee from '../assets/Caramel_Macchiato_coffee.jpeg';
 import Chocolate_Brownie_Milkshake from '../assets/Chocolate_Brownie_Milkshake.jpeg';
 import chocolate_milkshake from '../assets/chocolate_milkshake.jpeg';
-import Cold_Brew_Coffee from '../assets/Cold_Brew_Coffee.jpeg';
+import Cold_Brew_Coffee from '../assets/Cold_Brew_Coffee.jpeg'; 
 import Dalgona_coffee from '../assets/Dalgona_coffee.jpeg';
 import Milk_Coffee from '../assets/Milk_Coffee.jpeg';
 import Espresso_coffee from '../assets/Espresso_coffee.jpeg';
@@ -47,7 +47,7 @@ import milkshake9 from '../assets/milkshake9.jpeg';
 import Mint_Tea from '../assets/Mint_Tea.jpeg';
 import Nitro_coffee from '../assets/Nitro_coffee.jpeg';
 import Oolong_Tea from '../assets/Oolong_Tea.jpeg';
-import Oreo_Iced_Coffee_Creamy from '../assets/Oreo_Iced_Coffee_Creamy.jpeg';
+import Oreo_Iced_Coffee_Creamy from '../assets/Oreo_Iced_Coffee_Creamy.jpeg'; //fix
 import Oreo_Milkshake from '../assets/Oreo_Milkshake.jpeg';
 import Oreo_Strawberry_Cheesecake_Milkshake from '../assets/Oreo_Strawberry_Cheesecake_Milkshake.jpeg';
 import Rose_Tea from '../assets/Rose_Tea.jpeg';
