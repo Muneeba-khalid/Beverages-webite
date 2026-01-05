@@ -1,14 +1,13 @@
 
 import Black_Gold_Iced_Coffee from '../assets/Black_Gold_Iced_Coffee.jpeg'
 import Affogato_coffee from '../assets/Affogato_coffee.jpeg';
-import Coffe from '../assets/Coffe.jpeg';
+import Coffe from '../assets/coffe.jpeg';
 import Black_tea from '../assets/Black_tea.jpeg';
 import blueberry from '../assets/blueberry.jpeg';
 import coffee from '../assets/coffee.jpeg';
 import Caramel_Macchiato_coffee from '../assets/Caramel_Macchiato_coffee.jpeg';
 import Chocolate_Brownie_Milkshake from '../assets/Chocolate_Brownie_Milkshake.jpeg';
 import chocolate_milkshake from '../assets/chocolate_milkshake.jpeg';
-import coffe from '../assets/coffe.jpeg';
 import Cold_Brew_Coffee from '../assets/Cold_Brew_Coffee.jpeg';
 import Dalgona_coffee from '../assets/Dalgona_coffee.jpeg';
 import Milk_Coffee from '../assets/Milk_Coffee.jpeg';
@@ -140,15 +139,15 @@ export const products = [
     newPrice: 'RS 5000',
     description: 'Warm amber and vanilla notes create a sensual fragrance ideal for romantic occasions.'
   },
-  {
-    id: 10,
-    brand: 'Coffee',
-    name: ' Coffee ',
-    image: coffe,
-    oldPrice: 'RS 7000',
-    newPrice: 'RS 6000',
-    description: 'Warm amber and vanilla notes create a sensual fragrance ideal for romantic occasions.'
-  },
+  // {
+  //   id: 10,
+  //   brand: 'Coffee',
+  //   name: ' Coffee ',
+  //   image: coffe,
+  //   oldPrice: 'RS 7000',
+  //   newPrice: 'RS 6000',
+  //   description: 'Warm amber and vanilla notes create a sensual fragrance ideal for romantic occasions.'
+  // },
   {
     id: 10,
     brand: 'Coffee',
