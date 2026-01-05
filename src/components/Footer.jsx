@@ -1,7 +1,7 @@
 
 import { FaFacebookF, FaInstagram, FaTwitter, FaHeart } from 'react-icons/fa';
 import { MdEmail, MdPhone, MdLocationOn } from 'react-icons/md';
-import logo from "../assets/logo.jpeg";
+import Logo from "../assets/Logo.jpeg";
 
 const Footer = () => {
   return (
@@ -11,7 +11,7 @@ const Footer = () => {
         {/* Brand Column */}
         <div className="brand-column">
           <div className="brand-logo">
-            <img src={logo} alt="Brew & Sip" className="logo-img" />
+            <img src={Logo} alt="Brew & Sip" className="logo-img" />
             <div className="brand-text">
               <h2>Brew & Sip</h2>
               <p className="tagline">Artisan Coffee Roasters</p>
